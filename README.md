@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-Before running the development server, create a .env.local file with your personal spotify API
+Before running the development server, create a .env.local file in the root branch with your personal spotify API
 from https://developer.spotify.com/documentation/web-api
 
 File should include: <br>
